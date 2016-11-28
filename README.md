@@ -1,3 +1,8 @@
+Just an ejected create-react-app with some added dependencies for redux and react router.
+Plus a little extra boiler plate to get started. 
+
+
+-----------------------
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
